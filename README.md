@@ -20,7 +20,7 @@ This is a simple To-Do List application built using **Node.js**, **Express**, an
 5. [API Endpoints](#api-endpoints)
 6. [Technologies Used](#technologies-used)
 7. [Contributing](#contributing)
-8. [License](#license)
+
 
 ## Installation
 
@@ -144,4 +144,3 @@ Contributions are welcome! If you’d like to contribute, please follow these st
 
 ---
 
-This `README.md` file provides a clear overview of the project, setup instructions, and detailed information on how to use the app. Feel free to modify it based on any additional features you add to the project!
